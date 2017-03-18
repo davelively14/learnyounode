@@ -1,5 +1,4 @@
 var fs = require("fs");
-// var filteredDirs = [];
 
 fs.readdir(process.argv[2], function(err, list) {
   if (err) return console.error(err);
