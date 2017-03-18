@@ -1,27 +1,15 @@
 # Node.js Tutorial
 
-» HELLO WORLD                                                 [COMPLETED]
-
-» BABY STEPS                                                  [COMPLETED]
-
-» MY FIRST I/O!                                               [COMPLETED]
-
-» MY FIRST ASYNC I/O!                                         [COMPLETED]
-
-» FILTERED LS
-
-» MAKE IT MODULAR
-
-» HTTP CLIENT
-
-» HTTP COLLECT
-
-» JUGGLING ASYNC
-
-» TIME SERVER
-
-» HTTP FILE SERVER
-
-» HTTP UPPERCASERER
-
-» HTTP JSON API SERVER
+» HELLO WORLD                                                 [COMPLETED]\n
+» BABY STEPS                                                  [COMPLETED]\n
+» MY FIRST I/O!                                               [COMPLETED]\n
+» MY FIRST ASYNC I/O!                                         [COMPLETED]\n
+» FILTERED LS\n
+» MAKE IT MODULAR\n
+» HTTP CLIENT\n
+» HTTP COLLECT\n
+» JUGGLING ASYNC\n
+» TIME SERVER\n
+» HTTP FILE SERVER\n
+» HTTP UPPERCASERER\n
+» HTTP JSON API SERVER\n
